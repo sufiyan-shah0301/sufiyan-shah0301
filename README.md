@@ -120,8 +120,6 @@ Presented technical work at Vidyavardhini's College *(Apr 2026)*
 
 </div>
 
-> The usual stats/top-languages cards (`github-readme-stats.vercel.app`) are left out here — that free public demo instance is frequently paused by its own host due to overload, so it shows as a broken image far too often. The streak card above is a separate, more reliable service.
-
 ---
 
 <div align="center">
