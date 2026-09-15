@@ -116,12 +116,11 @@ Presented technical work at Vidyavardhini's College *(Apr 2026)*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sufiyan-shah0301&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sufiyan's GitHub stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan-shah0301&theme=radical&hide_border=true" alt="Sufiyan's GitHub streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan-shah0301&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
-
 </div>
+
+> The usual stats/top-languages cards (`github-readme-stats.vercel.app`) are left out here — that free public demo instance is frequently paused by its own host due to overload, so it shows as a broken image far too often. The streak card above is a separate, more reliable service.
 
 ---
 
