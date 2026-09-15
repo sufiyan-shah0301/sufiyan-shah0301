@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi, I'm Sufiyan 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sufiyan+%F0%9F%91%8B;Full-Stack+Developer;Computer+Engineering+Student;AI%2FML+Enthusiast" alt="Typing SVG" />
 
-### Full-Stack Developer · Computer Engineering Student
+<br/>
 
-I build full-stack web applications and enjoy integrating intelligent, data-driven features into them — from predictive models to real-time systems.
+![Profile Views](https://komarev.com/ghpvc/?username=sufiyan-shah0301&color=blueviolet&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufiyan-shah-a3613b345)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahsufiyan1702@gmail.com)
 
 </div>
 
@@ -12,14 +14,22 @@ I build full-stack web applications and enjoy integrating intelligent, data-driv
 
 ### 🎓 About Me
 
-- 🏫 B.E. in Computer Engineering @ Rizvi College of Engineering *(3rd Year, expected 2028)*
-- 💼 Data Science & Full-Stack Web Dev Intern @ Spark IIT
-- 🌱 Currently exploring AI/ML integration in real-world web applications
-- 📍 Based in Neral, Maharashtra, India
+```yaml
+education:   B.E. Computer Engineering, Rizvi College of Engineering (3rd Year, expected 2028)
+internship:  Data Science & Full-Stack Web Dev Intern @ Spark IIT
+focus:       Building full-stack web apps with real AI/ML integration, not just UI
+location:    Neral, Maharashtra, India
+```
+
+I'm a full-stack developer who likes shipping complete products — frontend, backend, and the intelligence layer that makes them actually useful. I've built systems that combine real-time coordination, predictive ML models, and clean UX into one working platform.
 
 ---
 
 ### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages & Frameworks**
 
@@ -28,6 +38,10 @@ I build full-stack web applications and enjoy integrating intelligent, data-driv
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
 
 **AI / Data Science**
 
@@ -41,31 +55,83 @@ I build full-stack web applications and enjoy integrating intelligent, data-driv
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🏆 Certifications & Achievements
+### 🏆 Hackathons & Achievements
 
-- 🥇 THINK AI Innovation Challenge 3.0 — Artificial Intelligence *(Sept 2025)*
-- 🐍 Backend Brilliance — Python & MySQL technical showcase, Rizvi College *(Mar 2026)*
-- 🎤 VNPS Project Showcase — Vidyavardhini's College *(Apr 2026)*
+<table>
+<tr>
+<td width="90" align="center">🥈</td>
+<td>
+
+**VEXORA'26 — 6-Hour Hackathon — 2nd Place**
+Won **₹1,500** cash prize, competing against **40+ teams**, as part of a 4-member team (with Rehan Mhate, Subhaan Parkar & Afrah Shaikh).
+Organized by SPCA, Dept. of Computer Engineering, St. John College of Engineering and Management *(Sept 2026)*
+
+</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td>
+
+**THINK AI Innovation Challenge 3.0**
+Demonstrated applied AI/ML problem-solving skills *(Sept 2025)*
+
+</td>
+</tr>
+<tr>
+<td align="center">🐍</td>
+<td>
+
+**Backend Brilliance**
+Python & MySQL technical showcase, Rizvi College *(Mar 2026)*
+
+</td>
+</tr>
+<tr>
+<td align="center">🎤</td>
+<td>
+
+**VNPS Project Showcase**
+Presented technical work at Vidyavardhini's College *(Apr 2026)*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sufiyan-shah0301&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sufiyan's GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan-shah0301&hide_border=true" alt="Sufiyan's GitHub streak" height="165" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sufiyan-shah0301&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sufiyan's GitHub stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan-shah0301&theme=radical&hide_border=true" alt="Sufiyan's GitHub streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan-shah0301&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufiyan-shah-a3613b345)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsufiyan1702@gmail.com)
 
+*"Think Big. Code Bold."*
+
+</div>
